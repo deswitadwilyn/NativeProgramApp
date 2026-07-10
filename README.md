@@ -54,4 +54,4 @@ Scan QR code yang muncul menggunakan aplikasi **Expo Go** di HP kamu.
 - @react-native-async-storage/async-storage
 
 ## Link Expo Snack
-> Tempel link Expo Snack (snack.expo.dev) di sini setelah kamu upload kode ini ke Snack.
+> Tempel link Expo Snack (https://snack.expo.dev/@deswita/df8a86) di sini setelah kamu upload kode ini ke Snack.

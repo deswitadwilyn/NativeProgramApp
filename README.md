@@ -37,7 +37,8 @@ Aplikasi check-in berbasis Expo/React Native yang menggabungkan **foto selfie**,
 
 2. Dialog permintaan izin sistem (kamera/lokasi) (<img width="738" height="1600" alt="izinapp" src="https://github.com/user-attachments/assets/c32838c2-9303-4736-a684-66f38be0259b" />)
 
-3. Penanganan penolakan izin (Alert + tombol Pengaturan) (<img width="738" height="1600" alt="izinapp" src="https://github.com/user-attachments/assets/9bc4f567-95e1-4b4a-b063-88f714bf0054" />)
+3. Penanganan penolakan izin (Alert + tombol Pengaturan) (<img width="738" height="1600" alt="bisa" src="https://github.com/user-attachments/assets/c69ac519-2ed2-4f2f-bc4d-6a53fbdaf4d8" />)
+
 
 
 ## Cara Menjalankan
